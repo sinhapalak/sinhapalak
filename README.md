@@ -26,6 +26,4 @@ C | C++ | PYTHON | JAVA | HTML | CSS | JAVASCRIPT
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhapalak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="palak's GitHub Stats" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhapalak&theme=dark" alt="sinhapalak" /></p>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
