@@ -1,10 +1,10 @@
 ![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 <h2> Hi, I'm Palak Sinha!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif](https://tenor.com/HayG.gif)">
 
 
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw1EvaFEdtpJX283NLG5mln4&ust=1680272763862000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKi94Ybug_4CFQAAAAAdAAAAABA3" /> </p>
+<p align="left"></p>
 
 - 🌱 I’m currently learning **React**
 
