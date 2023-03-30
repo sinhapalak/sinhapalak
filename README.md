@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhapalak&label=Profile%20views&color=0e75b6&style=flat" alt="sinhapalak" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw1EvaFEdtpJX283NLG5mln4&ust=1680272763862000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKi94Ybug_4CFQAAAAAdAAAAABA3" /> </p>
 
 - 🌱 I’m currently learning **React**
 
