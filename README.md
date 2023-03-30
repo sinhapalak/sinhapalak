@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 <h2> Hi, I'm Palak Sinha!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif](https://tenor.com/HayG.gif)">
+<img align="right" alt="Coding" width="400" src="https://little.kylerconway.com/images/golang-what.gif">
 
 
 
@@ -27,5 +27,6 @@ C | C++ | PYTHON | JAVA | HTML | CSS | JAVASCRIPT
   <br>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhapalak&theme=radical" />
 </a>
+<img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 
 
