@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 📫 How to reach me **sinhapalak555@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
